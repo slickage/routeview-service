@@ -6,6 +6,7 @@ var noop = function(req, res){
 // random routes
 router.addRoute('/', require('./routes/index'));
 router.addRoute('/cams/:camDesc?', require('./routes/cams'));
+router.addRoute('/regions/:regionName?', require('./routes/regions'));
 router.addRoute('/noop', noop);
 
 module.exports = router;

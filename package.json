@@ -1,0 +1,12 @@
+{
+  "name": "route_view-api",
+  "version": "0.1.0",
+  "description": "Route View API for access via native code.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "James Wang <jw@slickage.com>",
+  "license": "MIT"
+}

@@ -1,12 +1,11 @@
 var util = require('util');
 var _ = require('underscore');
-var regions = require('../data/regions.json');
-// keys are descriptions
-// var regions = ['Honolulu', 'Aiea', 'Pearl City', 'Kaneohe', 'Kailua', 'Hawaii Kai'];
+var jsonData = require('../json_data');
 
 module.exports = handler;
 
 function handler(req, res) {
+  var regions = jsonData.regions;
   var resp = {};
   if (req.params.regionName) { 
     var region = regions[req.params.regionName];

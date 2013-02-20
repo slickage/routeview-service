@@ -13,9 +13,7 @@ function handler(req, res) {
   if (req.params.regionName) {
     var region = regions[req.params.regionName];
     if (region) {
-      console.log('cams not reduced to regions yet.. unimplemented');
-      console.log('still returning all cams');
-      cams = jsonData.cams;
+      cams = jsonData.camsForRegion(req.params.regionName);
     }
     else {
       cams = {};

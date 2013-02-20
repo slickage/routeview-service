@@ -1,0 +1,90 @@
+{
+  "FARRINGTON & H-1 RAMPS": {
+    "description": "FARRINGTON & H-1 RAMPS",
+    "cameraImageURL": "\/images\/cctv\/honolulucams\/C105_FARRINGTON_H1_RAMPS.jpg",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-157.985039",
+        "21.39589"
+      ]
+    }
+  },
+  "PALI HWY WAOKANAKA": {
+    "description": "PALI HWY WAOKANAKA",
+    "cameraImageURL": "\/images\/cctv\/honolulucams\/C072_PALI_HWY_WAOKANAKA.jpg",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-157.83253",
+        "21.34248"
+      ]
+    }
+  },
+  "KAM & HAULALANI": {
+    "description": "KAM & HAULALANI",
+    "cameraImageURL": "\/images\/cctv\/honolulucams\/C212_KAM_HAULALANI.jpg",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-157.806858",
+        "21.426401"
+      ]
+    }
+  },
+  "H-1 & MIDDLE": {
+    "description": "H-1 & MIDDLE",
+    "cameraImageURL": "\/images\/cctv\/honolulucams\/C001_H1_MIDDLE.jpg",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-157.88395",
+        "21.33758"
+      ]
+    }
+  },
+  "NIMITZ & AOLELE ST. (WEST BD)": {
+    "description": "NIMITZ & AOLELE ST. (WEST BD)",
+    "cameraImageURL": "\/images\/cctv\/honolulucams\/C123_NIMITZ_AOLELE_ST_WESTBD.jpg",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-157.92269",
+        "21.33852"
+      ]
+    }
+  },
+  "KAM & LILIPUNA & HAIKU": {
+    "description": "KAM & LILIPUNA & HAIKU",
+    "cameraImageURL": "\/images\/cctv\/honolulucams\/C211_KAM_LILIPUNA_HAIKU.jpg",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-157.804267",
+        "21.422192"
+      ]
+    }
+  },
+  "FARRINGTON & PAIWA ST.": {
+    "description": "FARRINGTON & PAIWA ST.",
+    "cameraImageURL": "\/images\/cctv\/honolulucams\/C110_FARRINGTON_PAIWA_ST.jpg",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-157.99807",
+        "21.38667"
+      ]
+    }
+  },
+  "NIMITZ & ALAKAWA  2": {
+    "description": "NIMITZ & ALAKAWA  2",
+    "cameraImageURL": "\/images\/cctv\/honolulucams\/C148_NIMITZ_ALAKAWA_2.jpg",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-157.87532",
+        "21.31702"
+      ]
+    }
+  }
+}

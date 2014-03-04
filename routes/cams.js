@@ -5,6 +5,7 @@ var jsonData = require('../json_data');
 module.exports = handler;
 
 function handler(req, res) {
+  res.writeHead(200, {"Content-Type": "application/json"});
   var cams;
   var regions = jsonData.regions;
   var resp = {};

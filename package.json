@@ -8,5 +8,13 @@
   },
   "repository": "",
   "author": "James Wang <jw@slickage.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "routes": "^0.2.0",
+    "underscore": "^1.6.0",
+    "request": "^2.34.0",
+    "ejs": "^0.8.5",
+    "error-page": "0.0.7",
+    "templar": "^0.2.2"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "route_view-api",
+  "name": "routeview-service",
   "version": "0.1.0",
   "description": "Route View API for access via native code.",
   "main": "server.js",

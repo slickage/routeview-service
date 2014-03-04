@@ -7,6 +7,7 @@ var StringDecoder = require('string_decoder').StringDecoder;
 var qs = require('querystring');
 
 var site = function(req, res) {
+  res.writeHead(200, {"Content-Type": "application/json"});
   res.error = ErrorPage(req, res, {});
   res.template = Templar(req, res, templarOptions);
   var route = router.match(req.url);

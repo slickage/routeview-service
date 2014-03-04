@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Route View API for access via native code.",
   "main": "server.js",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
